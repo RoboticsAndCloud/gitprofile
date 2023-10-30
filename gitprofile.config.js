@@ -101,7 +101,7 @@ const config = {
       title: 'Device & Application Monitoring System (Frontend)',
       description:
         'A device management system based on React + React-Router + Antd + Echarts.',
-      imageUrl: 'https://raw.githubusercontent.com/RoboticsAndCloud/eladmin_web_react/main/docs/imgs/login.png',
+      imageUrl: 'https://raw.githubusercontent.com/RoboticsAndCloud/gitprofile/main/public/chart.jpg',
       link: 'https://roboticsandcloud.github.io/eladmin_web_react',
     },
     {
