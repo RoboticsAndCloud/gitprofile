@@ -55,6 +55,8 @@ const config = {
     'CSS',
     'Antd',
     'Tailwind',
+    'Deep Learning',
+    'ChatGPG'
   ],
   experiences: [
     {
