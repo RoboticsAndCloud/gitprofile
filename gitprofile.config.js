@@ -56,7 +56,7 @@ const config = {
     'Antd',
     'Tailwind',
     'Deep Learning',
-    'ChatGPG'
+    'ChatGPT'
   ],
   experiences: [
     {
